@@ -1,0 +1,15 @@
+# POST  https://localhost:5001/api/categories
+# Content-Type: application/json
+
+# {
+#     "name":"Printer"
+# }
+#   GET https://localhost:5001/api/categories
+# PUT https://localhost:5001/api/categories/10001
+# Content-Type: application/json
+
+# {
+#     "name":"Desktop"
+# }
+# DELETE  https://localhost:5001/api/categories/100
+GET   https://localhost:5001/api/goods
